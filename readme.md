@@ -1,6 +1,6 @@
 # React App - Basic Calculator
 
-## The features implemented include:
+## The features implemented include
 
 - Add
 - Subtract
@@ -12,4 +12,4 @@
 - Reset functionality
 - Format larger numbers
 - Output resize based on length
-
+  
